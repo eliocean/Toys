@@ -15,5 +15,7 @@
 - 【[20230605](./20230605/masm32.md)】[MASM32](http://www.masm32.com/) 汇编SDK
 - 【[20230606](./20230606/AirtestIDE.md)】[AirtestIDE](http://airtest.netease.com/) 跨平台的UI自动化测试工具
 - 【[20230607](./20230607/LockHunter.md)】[LockHunter](https://lockhunter.com/) 文件占用解锁器
-- 【[20230608](./)】
+- 【[20230608](./20230608/USB%20Safely%20Remove.md)】[USB Safely Remove](https://safelyremove.com/index.htm) 安全移除USB设备
+- 【[20230609](./20230609/DishGenius.md)】
+- 【[20230610](./20230610/DroidCamApp.md)】
 
