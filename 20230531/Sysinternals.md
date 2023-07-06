@@ -1,4 +1,4 @@
-# [Sysinternals](https://learn.microsoft.com/zh-cn/sysinternals/downloads/) 实用工具集
+# [Sysinternals](https://learn.microsoft.com/zh-cn/sysinternals/downloads/) 微软实用工具集
 
 Sysinternals 网站于 1996 年创建， [Mark Russinovich](https://blogs.technet.microsoft.com/markrussinovich/) 用于托管他的高级系统实用程序和技术信息。 无论你是 IT 专业人员还是开发人员，你都会找到 Sysinternals 实用工具，帮助你管理、排查和诊断 Windows 和 Linux 系统和应用程序。
 
