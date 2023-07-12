@@ -62,6 +62,11 @@
 
 - 【[今日热榜](./tophub/tophub.md)】[今日热榜](https://tophub.today/) 各站热榜聚合
 
+- 【[F-Droid](./F-Droid/F-Droid.md)】[F-Droid](http://www.kali.org/docs/nethunter) kali 手机应用商店
+
+
+
+#### 
 ---
 ---
 ---
