@@ -1,7 +1,7 @@
 # 分享一些有趣的东西
 
 
-## 多平台软件
+## 全平台软件
 - 【[rustdesk](./rustdesk/rustdesk.md)】[rustdesk](https://github.com/rustdesk/rustdesk) 简单易用的开源远程桌面工具
 
 - 【[vlc](./vlc/vlc.md)】[vlc](https://github.com/videolan/vlc) 强大的开源跨平台多媒体播放器及框架
@@ -14,8 +14,15 @@
 
 - 【[DeepL](./DeepL/DeepL.md)】[DeepL](https://www.deepl.com/translator) 最优雅的翻译软件
 
+- 【有道翻译】有道翻译，国内专业的翻译软件
+
 - 【[lark](./lark/lark.md)】[飞书](https://www.feishu.cn/) 云文档做笔记
 
+- 【ChatMoss】[ChatMoss](http://testchatmoss.aihao123.cn/) 利用了 ChatGPT 的中文AI模型
+
+- 【[Hayo](./Hayo/Hayo.md)】[Hayo](https://www.hayo.com/)  AI语言模型和图片生成
+
+- 【To do】 Microsoft To Do 待办清单
 
 
 
@@ -46,25 +53,93 @@
 
 - 【[v2rayNG](./v2rayNG/v2rayNG.md)】[v2rayNG](https://github.com/2dust/v2rayNG)  VPN工具
 
-- 【Telegram】Telegram是款跨平台实时通信软件，客户端开源但服务器专有。服务器本身已加密外，可选额外用户对用户加密。支持传送所有文件类型，更支持语音通话。
+- 【Telegram】Telegram 加密通信软件
 
 - 【GitHub】
 
-- 【维基百科】
+- 【Wikipedia】维基百科
 
-- 【Quora】 国外的知乎
+- 【Quora】 知识问答平台，国外的知乎
  
-- 【Reddit】 国外最大论坛
+- 【Reddit】 意见与知识社区
 
 - 【YouTube】
-
-- 【Twitter】
 
 - 【[今日热榜](./tophub/tophub.md)】[今日热榜](https://tophub.today/) 各站热榜聚合
 
 - 【[F-Droid](./F-Droid/F-Droid.md)】[F-Droid](http://www.kali.org/docs/nethunter) kali 手机应用商店
 
+- 【一个木函】 多功能类工具箱
 
+- 【Via】[via](https://github.com/tuyafeng/Via) 手机端极简浏览器
+
+- 【[AidLux](./AidLux/AidLux.md)】[AidLux](https://github.com/aidlearning/AidLearning-Framework)  手机端的Linux智能物联网 (AIoT) 应用开发和部署平台。
+
+- 【Termux】[Termux](https://github.com/termux/termux-app) Android 终端模拟器
+
+- 【[Andronix](./Andronix/Andronix.md)】[Andronix](https://andronix.app/) 在Android 手机上安装linux
+
+- 【Wifiman】网络设备扫描工具
+
+- 【PingTools】网络工具集
+
+- 【Fing】 网络设备扫描工具，包括摄像头
+
+- 【LeetCode】 力扣手机端
+
+- 【中国大学MOOC】 MOOC手机端
+
+- 【网易公开课】在线公开课
+
+- 【Vocab.com】 [Vocabulary](https://www.vocabulary.com/) 手机端
+
+- 【coursera】 在线公开课
+
+- 【edx】 在线公开课
+
+- 【TED】在线公开课
+
+- 【Khan Academy】在线公开课
+
+- 【Alison】在线公开课
+
+- 【每日英语听力】
+
+- 【钢笔字帖】
+
+- 【句读】
+
+- 【古诗词典】
+
+- 【句子控】
+
+- 【纸条】
+
+- 【keep】 健身助手
+
+- 【小红书】视频社区，知识社区
+
+- 【抖音】 视频社区，知识社区
+
+- 【知乎】知识问答社区
+
+- 【bilibili】 视频社区，知识社区
+
+- 【MT管理器】 APK修改、签名、加密、汉化
+
+- 【自动点击器】
+
+- 【DroidCam】 手机当做电脑摄像头
+
+- 【模拟定位助手】
+
+- 【Fender Tune】 调弦工具
+
+- 【节拍器】
+
+- 【Edge浏览器】
+
+- 【布丁扫描】 AI扫描工具
 
 #### 
 ---
@@ -73,6 +148,31 @@
 ## 浏览器插件
 - 【[languagereactor](./languagereactor/languagereactor.md)】 [Language Reactor](https://www.languagereactor.com/) 浏览器插件：语言反应器
 
+- 【Adblock Plus】阻止广告和弹窗
+
+- 【BookmarkHub】不同浏览器之间书签同步
+
+- 【FeHelper】前端助手
+
+- 【Microsoft Power Automate】
+
+- 【Proxy SwitchyOmega】 代理设置管理
+
+- 【Vytal】欺骗时区、地理位置、区域设置和用户代理
+
+- 【Wappalyzer】 web开发技术探查
+
+- 【WeTab】自定义你的新标签页
+
+- 【沉浸式翻译】沉浸式网页双语翻译扩展
+
+- 【猫抓】网页媒体嗅探工具
+
+- 【Tampermonkey】 油猴脚本，浏览器篡改脚本
+
+- 【Wikiwand】wikipedia 阅读模式
+
+- 【File Icons for GitHub and GitLab】 github 文件图标显示
 
 ---
 ---
@@ -101,6 +201,8 @@
 
 - 【[OpenArk](./OpenArk/OpenArk.md)】[OpenArk](https://github.com/BlackINT3/OpenArk) Windows平台上的开源Ark工具箱
 
+
+
 ---
 ---
 ---
@@ -110,6 +212,7 @@
 ---
 ---
 ---
-## 文章
+## 文章收藏
 
 - 【[burpsuit_pro 破解](./burpsuit_por_Keygen/burpsuit_por_Keygen.md)】 burpsuit_pro 破解
+
