@@ -214,7 +214,10 @@
 ---
 ---
 ---
-## 文章收藏
+## 文章
 
 - 【[burpsuit_pro 破解](./burpsuit_por_Keygen/burpsuit_por_Keygen.md)】 burpsuit_pro 破解
 
+- 【[Genshin_Selfserver](Genshin_Selfserver/Genshin_Selfserver.md)】原神私服搭建教程
+
+- 
