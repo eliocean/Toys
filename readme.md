@@ -203,7 +203,10 @@
 
 - 【[OpenArk](./OpenArk/OpenArk.md)】[OpenArk](https://github.com/BlackINT3/OpenArk) Windows平台上的开源Ark工具箱
 
-- 【[JEnv-for-Windows](JEnv-for-Windows/JEnv-for-Windows.md)】[JEnv-for-Windows](https://github.com/FelixSelter/JEnv-for-Windows)
+- 【[JEnv-for-Windows](JEnv-for-Windows/JEnv-for-Windows.md)】[JEnv-for-Windows](https://github.com/FelixSelter/JEnv-for-Windows) windows上java环境快速切换
+
+- 【[nps](nps/nps.md)】[nps](https://github.com/ehang-io/nps) 内网穿透代理服务器
+
 
 ### 音乐方向
 - 【[MuseScore](./MuseScore/MuseScore.md)】[MuseScore](https://github.com/musescore/MuseScore) 乐谱（五线谱）编辑软件
