@@ -207,6 +207,7 @@
 
 - 【[nps](nps/nps.md)】[nps](https://github.com/ehang-io/nps) 内网穿透代理服务器
 
+- 【[proxifier](./proxifier/proxifier.md)】[proxifier](https://www.proxifier.com/) 网络代理工具，可正则化配置需要代理的程序
 
 ### 音乐方向
 - 【[MuseScore](./MuseScore/MuseScore.md)】[MuseScore](https://github.com/musescore/MuseScore) 乐谱（五线谱）编辑软件
