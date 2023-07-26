@@ -40,6 +40,17 @@
 
 - 【[USBsafelyremove](./USBsafelyremove/USBsafelyremove.md)】[USB Safely Remove](https://safelyremove.com/index.htm) 安全移除USB设备
 
+- 【EyesGuard】[EyesGuard](https://github.com/avestura/EyesGuard) 护眼软件
+
+---
+---
+---
+## linux 平台软件
+- 【[ohmyzsh](./ohmyzsh/ohmyzsh.md)】[ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) 终端美化工具
+
+
+
+
 ---
 ---
 ---
