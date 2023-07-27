@@ -42,6 +42,11 @@
 
 - 【EyesGuard】[EyesGuard](https://github.com/avestura/EyesGuard) 护眼软件
 
+- 【Rainmeter】[Rainmeter](https://github.com/rainmeter/rainmeter) 桌面美化定制
+
+- 【N_m3u8DL】[N_m3u8DL](https://github.com/nilaoda/N_m3u8DL-CLI) m3u8解析下载器
+
+
 ---
 ---
 ---
