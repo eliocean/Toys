@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>868D33A5-0513-417E-88B4-5DAC66170C85</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M21.2944416,6.23048822 L21.2944416,2.05882353 C30.173018,2.9335308 37.1176471,10.4035309 37.1176471,19.4654983 C37.1176471,22.0021494 36.5550442,24.4163415 35.5704892,26.5856155 L32.3270096,24.6864184 C32.9797439,23.1120515 33.3397433,21.3874646 33.3397433,19.5794216 C33.3397433,12.6607553 28.0683061,6.96413026 21.2944416,6.23048822 Z M30.4302745,27.900171 L33.8519648,29.903718 C30.652161,34.2422661 25.5008285,37.0588235 19.6814052,37.0588235 C9.97650579,37.0588235 2.11764706,29.2214464 2.11764706,19.564678 C2.11764706,10.4852165 9.0446948,3.03271056 17.9408526,2.15800329 L17.9408526,6.27773531 C11.3533184,7.1813754 6.28059322,12.7924109 6.28059322,19.5794216 C6.28059322,26.9959538 12.3379903,33.008241 19.8101683,33.008241 C24.1162111,33.008241 27.9524124,31.0115907 30.4302745,27.900171 Z" id="path-1"></path>
+        <filter x="-14.3%" y="-11.4%" width="128.6%" height="128.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.07 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Index-page-final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD_index_all_Jul-Copy" transform="translate(-877.000000, -2656.000000)">
+            <g id="Group-39" transform="translate(422.000000, 2447.000000)">
+                <g id="Group-59" transform="translate(455.000000, 209.000000)">
+                    <g id="Shape">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

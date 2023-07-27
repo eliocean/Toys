@@ -46,6 +46,7 @@
 
 - 【N_m3u8DL】[N_m3u8DL](https://github.com/nilaoda/N_m3u8DL-CLI) m3u8解析下载器
 
+- 【[glasswire](./glasswire/glasswire.md)】[glasswire](https://www.glasswire.com/) 流量监视器和防火墙
 
 ---
 ---
