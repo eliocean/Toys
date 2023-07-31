@@ -166,6 +166,8 @@
 ---
 ---
 ## 浏览器插件
+- 【[Tor](./Tor/Tor.md)】[Tor](https://www.torproject.org/) Tor 私密浏览器
+
 - 【[languagereactor](./languagereactor/languagereactor.md)】 [Language Reactor](https://www.languagereactor.com/) 浏览器插件：语言反应器
 
 - 【Adblock Plus】阻止广告和弹窗
