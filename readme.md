@@ -48,6 +48,8 @@
 
 - 【[glasswire](./glasswire/glasswire.md)】[glasswire](https://www.glasswire.com/) 流量监视器和防火墙
 
+- 【Bluetooth Audio Receiver】 电脑蓝牙接受音频信息
+
 ---
 ---
 ---
