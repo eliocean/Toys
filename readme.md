@@ -202,6 +202,8 @@
 
 - 【[Snowflake](./Snowflake/Snowflake.md)】 [Snowflake](https://snowflake.torproject.org/) 
 
+- 【Cookie Editor Plus】[Cookie Editor Plus](https://cookieeditor.org/) cookie编辑插件
+
 ---
 ---
 ---
