@@ -1,9 +1,9 @@
-# ohmyzsh
+# [ohmyzsh](https://ohmyz.sh/)
 
-终端驱动框架，用于管理zsh配置。
-包含
-300多个可选插件(rails, git, macOS, hub, docker, homebrew, node, php, python等)，
-140多个主题
+终端驱动框架，用于管理zsh配置和主题。
 
 
-https://ohmyz.sh/
+
+
+## 安装和配置
+......等待补充......
