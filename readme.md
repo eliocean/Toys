@@ -50,11 +50,11 @@
 
 - 【Rainmeter】[Rainmeter](https://github.com/rainmeter/rainmeter) 桌面美化定制
 
-- 【N_m3u8DL】[N_m3u8DL](https://github.com/nilaoda/N_m3u8DL-CLI) m3u8解析下载器
+- 【[Bluetooth-Audio-Receiver](./Bluetooth-Audio-Receiver/BluetoothAudioReveicer.zip)】[Bluetooth Audio Receiver](https://apps.microsoft.com/detail/9N9WCLWDQS5J?hl=zh-cn&gl=US) 电脑蓝牙音频信号接收器
 
-- 【[glasswire](./glasswire/glasswire.md)】[glasswire](https://www.glasswire.com/) 流量监视器和防火墙
+- 【动态主题】 每天自动换高质量桌面和屏保
 
-- 【Bluetooth Audio Receiver】 电脑蓝牙接受音频信息
+
 
 ---
 ---
@@ -166,9 +166,10 @@
 
 - 【File Icons for GitHub and GitLab】 github 文件图标显示
 
-- 【[Snowflake](./Snowflake/Snowflake.md)】 [Snowflake](https://snowflake.torproject.org/) 
+- 【[Snowflake](./Snowflake/Snowflake.md)】 [Snowflake](https://snowflake.torproject.org/)  访问 Tor
 
 - 【Youtube中文配音】[Youtube中文配音](https://chromewebstore.google.com/detail/youtube%E4%B8%AD%E6%96%87%E9%85%8D%E9%9F%B3/oglffgiaiekgeicdgkdlnlkhliajdlja) 在youtube看英文视频的时候，点击插件图标,会用自动进行翻译，然后用中文进行朗读。
+
 ---
 ---
 ---
