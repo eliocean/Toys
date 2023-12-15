@@ -64,6 +64,8 @@
 
 - 【[boot-repair](./boot-repair/boot-repair.md)】[boot-repair](https://github.com/ohmyzsh/ohmyzsh) 终端美化工具
 
+- 【[宝塔](./bt/bt.md)】[宝塔面板](https://www.bt.cn/new/index.html) - 简单好用的Linux/Windows服务器运维管理面板 
+
 
 
 

@@ -94,13 +94,8 @@ git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-m
 
 
 
-### 3. Z
 
- 内置插件，目录间快速跳转,不用再一直 `cd` 了
-
-
-
-### 4. git-open
+### 3. git-open
 
 在终端里打开当前项目的远程仓库地址
 
@@ -110,24 +105,15 @@ git clone https://github.com/paulirish/git-open.git $ZSH_CUSTOM/plugins/git-open
 
 
 
-### 5. [fzf](https://github.com/junegunn/fzf)
-
-fzf是一款使用 GO 语言编写的交互式的 Unix 命令行工具。可以用来查找任何列表内容、文件、历史命令、 本机绑定的host、 进程、 Git 分支、进程等。所有的命令行工具可以生成列表输出的都可以再通过管道 pipe 到 fzf 上进行搜索和查找。
-
-```bash
-git clone --depth 1 <https://github.com/junegunn/fzf.git> ~/.fzf
-~/.fzf/install
-```
 
 
-
-### 6. zsh-completions
+### 4. zsh-completions
 
 命令补全插件，输入命令按Tab键后会提示可以使用的命令和说明。
 
 ```bash
 #Clone the repository inside your oh-my-zsh repo:
-git clone <https://github.com/zsh-users/zsh-completions> ${ZSH_CUSTOM:-${ZSH:-~/.oh-my-zsh}/custom}/plugins/zsh-completions
+git clone https://github.com/zsh-users/zsh-completions ${ZSH_CUSTOM:-${ZSH:-~/.oh-my-zsh}/custom}/plugins/zsh-completions
 
 #Add it to FPATH in your .zshrc by adding the following line before source "$ZSH/oh-my-zsh.sh":
 fpath+=${ZSH_CUSTOM:-${ZSH:-~/.oh-my-zsh}/custom}/plugins/zsh-completions/src
@@ -148,10 +134,20 @@ vim ~/.zshrc
 
 # 以下是配置内容
 ZSH_THEME="ys" # ZSH_THEME="robbyrussell"
-plugins=(git zsh-syntax-highlighting zsh-autosuggestions Z git-open zsh-completions) # plugins=(git)
+plugins=(git zsh-syntax-highlighting zsh-autosuggestions git-open zsh-completions) # plugins=(git)
 source ~/.bash_profile # 如果 .bash_profile 中有配置内容的话，还需增加一行加载.bash_profile
 
 source .zshrc
+```
+
+
+### 5. 推荐查找工具:[fzf](https://github.com/junegunn/fzf)
+
+fzf是一款使用 GO 语言编写的交互式的 Unix 命令行工具。可以用来查找任何列表内容、文件、历史命令、 本机绑定的host、 进程、 Git 分支、进程等。所有的命令行工具可以生成列表输出的都可以再通过管道 pipe 到 fzf 上进行搜索和查找。
+
+```bash
+git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
+~/.fzf/install
 ```
 
 
