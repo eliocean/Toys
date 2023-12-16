@@ -17,6 +17,8 @@
 
 - 【[vlc](./vlc/vlc.md)】[vlc](https://github.com/videolan/vlc) 强大的开源跨平台多媒体播放器及框架
 
+- 【[emby](./emby/emby.md)】[vlc](https://github.com/MediaBrowser/Emby) 个人媒体服务器，可在几乎所有设备上使用
+
 - 【[lark](./lark/lark.md)】[飞书](https://www.feishu.cn/) 飞书，个人版就很香
 
 - 【[alist](./alist/alist.md)】[alist](https://github.com/alist-org/alist) 一个支持多存储的文件列表程序
