@@ -142,17 +142,27 @@
 
 - 【Cookie Editor Plus】管理网站cookie
 
-- 【[languagereactor](./languagereactor/languagereactor.md)】 [Language Reactor](https://www.languagereactor.com/) 透过观赏外语电影与电视剧，愉快且有效地自学新的语言
-
 - 【FeHelper】前端助手
 
+- 【File Icons for GitHub and GitLab】 github 文件图标显示
+
 - 【Glarity】[Glarity](https://glarity.app/zh-CN) AI摘要与助手
+
+- 【[Language Reactor](./languagereactor/languagereactor.md)】 [Language Reactor](https://www.languagereactor.com/) 透过观赏外语电影与电视剧，愉快且有效地自学新的语言
 
 - 【Microsoft Power Automate】 Microsoft Power Automate浏览器自动化插件
 
 - 【Proxy SwitchyOmega】管理和切换多个代理设置
 
 - 【Vimium C】[VimiumC](https://github.com/gdh1995/vimium-c) 全键盘操作浏览器
+
+- 【VideoDownload】支持b站、抖音、快手、微博、等上千个网站视频下载
+
+- 【Vue.js devtools】Vue 开发者工具
+
+- 【保护眼睛】更改网页背景色为护眼绿色
+
+- 【微信读书笔记助手】微信读书笔记工具
 
 - 【Vytal】欺骗时区、地理位置、区域设置和用户代理
 
@@ -168,8 +178,6 @@
 
 - 【Wikiwand】wikipedia 阅读模式
 
-- 【File Icons for GitHub and GitLab】 github 文件图标显示
-
 - 【[Snowflake](./Snowflake/Snowflake.md)】 [Snowflake](https://snowflake.torproject.org/)  访问 Tor
 
 - 【Youtube中文配音】[Youtube中文配音](https://chromewebstore.google.com/detail/youtube%E4%B8%AD%E6%96%87%E9%85%8D%E9%9F%B3/oglffgiaiekgeicdgkdlnlkhliajdlja) 在youtube看英文视频的时候，点击插件图标,会用自动进行翻译，然后用中文进行朗读。
@@ -178,7 +186,7 @@
 ---
 ---
 ## 专业软件
-### 计算机方向
+### 计算机
 - 【[DiskGenius](./DiskGenius/DiskGenius.md)】[DiskGenius](https://diskgenius.cn/) 磁盘管理工具
 
 - 【N_m3u8DL】[N_m3u8DL](https://github.com/nilaoda/N_m3u8DL-CLI) 命令行m3u8/HLS/dash下载器
@@ -211,18 +219,8 @@
 
 - 【[oh-my-posh](./oh-my-posh/oh-my-posh.md)】 [Oh My Posh](https://github.com/jandedobbeleer/oh-my-posh) powershell 主题
 
-### 音乐方向
+### 音乐
 - 【[MuseScore](./MuseScore/MuseScore.md)】[MuseScore](https://github.com/musescore/MuseScore) 乐谱（五线谱）编辑软件
-
-
-
----
----
----
-## 网站收藏
-- [今日热榜](https://tophub.today/) 新闻聚合
-- [Vocabulary](https://www.vocabulary.com/) 英文单词学习网站
-
 
 ---
 ---
